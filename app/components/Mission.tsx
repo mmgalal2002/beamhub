@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import missionVisual from "@/public/heroDesktop4.png";
+import missionVisual from "@/public/driveLandscape.png";
 
 const MISSION_PILLARS = [
   {
